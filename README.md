@@ -27,7 +27,7 @@ package engineer.profile;
 public class HashimKhan {
 
     private final String role = "Java Full Stack Developer";
-    private final String university = "NED University (Class of 2026)";
+    private final String university = "NED University (Batch 2022)";
     private final String specialization = "Backend Architecture & Secure Systems";
 
     private final String[] stack = {
